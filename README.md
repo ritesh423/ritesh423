@@ -5,7 +5,7 @@
 - ⚡ I'm always trying to learn and grow
 - 📫 How to reach me: riteshsingh.py@gmail.com
 - ⚡ Fun fact: I am currently in 9th class
-- ⚡ Competetion: I am currently Participating in [https://worldskillsindia.co.in/juniorskills2021/] Junior Skills Hope the journey goes well.
+- ⚡ Competetion: I am currently Participating in https://worldskillsindia.co.in/juniorskills2021/ Junior Skills Hope the journey goes well.
 <img src= "https://github-readme-stats.vercel.app/api?username=ritesh423&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh423&layout=compact">
