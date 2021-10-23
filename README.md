@@ -15,6 +15,12 @@
 <p align="center">
  I am student who enjoys programming and want to learn and explore new things. Currently I am learning react and I have a good grasp of Frond End Development. Other than programming I like singing and playing guitar and ofcourse watching anime:p
 </p>  
+</br>
+</br>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=so0ouvm97ih428f3y9dkl6zac&count=1)
+
+
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
