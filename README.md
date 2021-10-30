@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
- I am student who enjoys programming and want to learn and explore new things. Currently I am learning react and I have a good grasp of Front End Development. Other than programming I like singing and playing guitar and ofcourse watching anime:p
+ I am a student who enjoys programming and want to learn and explore new things. Currently I am learning react and I have a good grasp of Front End Development. Other than programming I like singing and playing guitar and ofcourse watching anime:p
 </p>  
 </br>
 </br>
