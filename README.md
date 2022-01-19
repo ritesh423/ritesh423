@@ -44,15 +44,16 @@
  
 <br>
 
-
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ritesh423&show_icons=true&height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh423&hide=html,css,js,html,css,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ritesh423&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh423&hide=html,css,javascript,hsl&theme=radical">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh423&show_icons=true&locale=en&layout=compact&height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh423&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritesh423">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ritesh423&theme=redical">
+</p> 
+<hr>
