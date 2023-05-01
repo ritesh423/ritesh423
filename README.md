@@ -4,13 +4,6 @@
 </p align="center">
 <img src="https://user-images.githubusercontent.com/74403818/138552472-9849b1f6-857c-4a87-ab5f-26f23b655347.jpeg" />
 
- 
- <p align="center">
- <img src="https://badges.pufler.dev/visits/ritesh423/ritesh423"/> 
- <img src="https://badges.pufler.dev/repos/ritesh423"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritesh423" />
-
-</p>
 
 <p align="center">
  I am a student who enjoys programming and want to learn and explore new things. Currently I am learning react and I have a good grasp of Front End Development. Other than programming I like singing and playing guitar and ofcourse watching anime:p
@@ -53,7 +46,3 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh423&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritesh423&theme=redical">
-</p> 
-<hr>
