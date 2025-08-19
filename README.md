@@ -2,16 +2,11 @@
 
 
 </p align="center">
-<img src="https://user-images.githubusercontent.com/74403818/138552472-9849b1f6-857c-4a87-ab5f-26f23b655347.jpeg" />
+<img width="1024" height="576" alt="GithubBanner" src="https://github.com/user-attachments/assets/0fcbdff7-a324-48ac-9bcc-13daab934eb5" />
 
 
-<p align="center">
- I am a student who enjoys programming and want to learn and explore new things. Currently I am learning react and I have a good grasp of Front End Development. Other than programming I like singing and playing guitar and ofcourse watching anime:p
-</p>  
 </br>
 </br>
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=so0ouvm97ih428f3y9dkl6zac&count=1)
 
 
 
