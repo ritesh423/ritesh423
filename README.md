@@ -43,6 +43,6 @@ data class InfoAboutMe(
 ## Get in touch
 
 - Personal Site: https://ritesh423.github.io/Portfolio/#/
-- Linkedin: https://www.linkedin.com/in/ritesh-singh-jethuri-01580620a/
+- Linkedin: [https://www.linkedin.com/in/ritesh-singh-jethuri-01580620a/](https://www.linkedin.com/in/ritesh-singh-01580620a/)
 - Twitter: https://x.com/ritesh_codes
 
