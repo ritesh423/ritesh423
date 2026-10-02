@@ -67,6 +67,7 @@
   <img src="https://skillicons.dev/icons?i=kotlin,js,ts,java,react,dart,html,css,postgres,sqlite&perline=11" alt="Ritesh's technology stack" />
 </div>
 
+<!--
 ## 🚀 Featured Projects
 
 <!-- TODO: Replace these sample projects, descriptions, technology lists, and links. -->
