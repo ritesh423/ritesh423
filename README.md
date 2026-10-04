@@ -14,7 +14,12 @@
     <a href="https://ritesh423.github.io/Portfolio/#/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=ritesh423&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views" />
+<a href="https://hits.sh/github.com/ritesh423/">
+  <img
+    alt="Profile views"
+    src="https://hits.sh/github.com/ritesh423.svg?label=Profile%20views&amp;color=7c3aed&amp;style=flat&amp;extraCount=12"
+  />
+</a>
 </div>
 
 ## 👨‍💻 About Me
