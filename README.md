@@ -122,7 +122,7 @@
 
 ## 🤝 Let's Connect
 
-I am always happy to discuss software engineering, open source, interesting product ideas, or potential collaborations. The easiest way to reach me is through [LinkedIn](https://www.linkedin.com/in/ritesh-singh-01580620a/) or [email](mailto:riteshsingh.py@gmail.com).
+I am always happy to discuss software engineering, open source, interesting product ideas, or potential collaborations. The easiest way to reach me is through [Portfolio](https://ritesh-site.riteshsingh-py.workers.dev/) or [LinkedIn](https://www.linkedin.com/in/ritesh-singh-01580620a/) or [email](mailto:riteshsingh.py@gmail.com).
 
 <div align="center">
   <strong>Thanks for stopping by — let's build something meaningful.</strong>
